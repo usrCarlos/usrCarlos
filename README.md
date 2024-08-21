@@ -1,4 +1,4 @@
-## Hi there 👋
+# **Hi there** 👋
 
 <!--
 **usrCarlos/usrCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌟 Apasionado por la Tecnología en Chile 🌟
+
+Estoy inmerso en el aprendizaje de **Python** y entusiasmado por contribuir a proyectos de desarrollo tecnológico que integren las últimas innovaciones con un enfoque en la **economía creativa**, la **sostenibilidad** y la **mejora del medio ambiente**. ¡Listo para marcar la diferencia con soluciones innovadoras y ecológicas! 🚀
+
+# **Perfil Profesional**
+
+---
+
+### **📍 Residencia:** Chile  
+### **💻 Pasión:** Tecnología, Sostenibilidad, Economía Creativa
+
+---
+
+### **🚀 Habilidades Actuales:**
+
+- **Lenguaje de Programación:** html, css, javascript, Actualmente aprendiendo **Python**.
+- **Interés:** Desarrollo tecnológico con las **últimas innovaciones**.
+- **Enfoque:** Economía creativa y **proyectos sustentables**.
+
+---
+
+### **🌱 Visión:**
+
+Estoy comprometido en contribuir a proyectos que **mejoren el medio ambiente** a través de soluciones innovadoras y **tecnologías sostenibles**.
+
+---
+
+### **🔗 Conéctate conmigo:**
+
+**[LinkedIn](https://www.linkedin.com/in/usrcarlos/)**
+<!--- [GitHub](#)
+- [Portafolio](#) -->
+
+---
+
+**¡Listo para marcar la diferencia con soluciones innovadoras y ecológicas!**
