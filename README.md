@@ -27,11 +27,21 @@ Estoy inmerso en el aprendizaje de **Python** y entusiasmado por contribuir a pr
 
 ---
 
-### **🚀 Habilidades Actuales:**
+### **🚀 Habilidades Actuales Tecnicas:**
 
 - **Lenguaje de Programación:** html, css, javascript, Actualmente aprendiendo **Python**.
 - **Interés:** Desarrollo tecnológico con las **últimas innovaciones**.
 - **Enfoque:** Economía creativa y **proyectos sustentables**.
+
+---
+
+### **🚀 Habilidades Blandas:**
+
+- **Adaptabilidad**.
+- **Resilencia**.
+- **Pensamiento Estrategico**.
+- **Innovacion Creativa**.
+- **Ética y Responsabilidad**.
 
 ---
 
